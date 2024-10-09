@@ -14,7 +14,8 @@ Un film est une source de divertissement, il "raconte" une histoire graçe à un
 - [x] Qu'est-ce qu'un film ?
 
 ## Différents types de films.
-* Horreurs. Les films d'horreurs ...
+* Horreurs. Les films d'horreurs ont pour objectif de faire ressentir de la peur aux personnes qui les regardent.
+* Romance. Les films de romance 
 
 
 
