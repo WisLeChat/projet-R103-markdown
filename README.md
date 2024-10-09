@@ -4,7 +4,6 @@
 - [ ] 10 titres de films.
 - [ ] Affiches des 10 films.
 - [ ] Pourquoi regarder des films ?
-- [ ] Quelles sont les étapes pour réaliser un film ?
 
 ------
 ## Qu'est-ce qu'un film ?
@@ -27,8 +26,8 @@ Titres | Types | Résumé
 ---|---|---
 Smile| Horreur | Rose Cotter, psychiatre, voit sa vie tourner au cauchemar et dois tout faire pour survire après un incident traumatisant.
 ça| Horreur | Un clown tueur d'enfants traumatise la ville de Derry, dans le Maine.
-Titanic | Romance |
-Le fabriquant de larmes | Romance |
+Titanic | Romance | Une excellent film d'amour sur un bateau.
+Le fabriquant de larmes | Romance | Est-ce que deux enfants du même orphelinat peuvent cohabiter dans la même maison sans tomber amoureux ?
 Harry Potter | Fantastique |
 Seigneurs des anneaux | Fantastique |
 Coco | Annimation |
@@ -64,5 +63,8 @@ Star Wars | Sciences-fiction |
 
 ## Pourquoi regarder des films ?
 
-Les films sont un merveilleux moyens de se changer les idées, quelque soit le type de film que vous regardez. Les 10 films que nous vous avons proposés doivent être regardés dès que possible. 
+Les films sont un merveilleux moyen de se changer les idées, quelque soit le type de film que vous regardez. Les 10 films que nous vous avons proposés doivent être regardés dès que possible. La meilleure raison de regarder un film : Nous pouvons essayer de hacker des sites (comme netflix) pour obtenir le film sans payer et cela nous entraine pour le BUT informatique.
+
+
+- [x] Pourquoi regarder des films ?
 
