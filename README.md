@@ -14,9 +14,9 @@ Un film est une source de divertissement, il "raconte" une histoire graçe à un
 
 ## Différents types de films.
 * Horreurs : Les films d'horreurs ont pour objectif de faire ressentir de la peur aux personnes qui les regardent.
-* Romance : Les films de romance sont sur les histoires d'amour et font souvent rêver.
+* Romance : Les films de romance sont sur les histoires d'amour et font souvent "*rêver*".
 * Fantastiques : Les films fantastiques bousculent les lois du réel avec l'apparition d'éléments paranormaux.
-* Annimations : Les films d'annimations utilisent une succession de dessins pour partager une histoire.
+* Annimations : Les films d'animations utilisent une succession de dessins pour partager une histoire.
 * Sciences-fictions : Les films de sciences-fiction imaginent une version du futur ou de l'espace généralement dystopique ou irréaliste.
 
 - [x] Différents types de films.
@@ -24,16 +24,16 @@ Un film est une source de divertissement, il "raconte" une histoire graçe à un
 ## 10 titres de films :
 Titres | Types | Résumé
 ---|---|---
-Smile| Horreur | Rose Cotter, psychiatre, voit sa vie tourner au cauchemar et dois tout faire pour survire après un incident traumatisant.
-ça| Horreur | Un clown tueur d'enfants traumatise la ville de Derry, dans le Maine.
-Titanic | Romance | Une excellent film d'amour sur un bateau.
-Le fabriquant de larmes | Romance | Est-ce que deux enfants du même orphelinat peuvent cohabiter dans la même maison sans tomber amoureux ?
-Harry Potter | Fantastique |
-Seigneurs des anneaux | Fantastique |
-Coco | Annimation |
-Shrek | Annimation |
-Divergente | Sciences-fiction |
-Star Wars | Sciences-fiction |
+**Smile**| Horreur | Rose Cotter, psychiatre, voit sa vie tourner au cauchemar et dois tout faire pour survire après un incident traumatisant.
+**ça**| Horreur | Un clown tueur d'enfants traumatise la ville de Derry, dans le Maine.
+**Titanic** | Romance | Une excellent film d'amour sur un bateau.
+**Le fabriquant de larmes** | Romance | Est-ce que deux enfants du même orphelinat peuvent cohabiter dans la même maison sans tomber amoureux ?
+**Harry Potter** | Fantastique |un garçon qui vas à un ecole un peut _particulier_.
+**Seigneurs des anneaux** | Fantastique | Deux hobbit qui vas jetter un anneaux dans un volcan accompagner par des person et un vieux.
+**Coco** | Annimation |un garçon qui fait de la guitar.
+**Shrek** | Annimation |**SHREK** est ce que je dois reélement resumé ce film tout le monde le connais **_n'eSt cE pAS_**. 
+**Divergente** | Sciences-fiction | un film pour meuf.
+**Star Wars**| Sciences-fiction |un mec qui vas dans l'espace(je connais pas le film,mais c'est que sa normalement).
 
 - [x] 10 titres de films.
 
@@ -63,7 +63,7 @@ Star Wars | Sciences-fiction |
 
 ## Pourquoi regarder des films ?
 
-Les films sont un merveilleux moyen de se changer les idées, quelque soit le type de film que vous regardez. Les 10 films que nous vous avons proposés doivent être regardés dès que possible. La meilleure raison de regarder un film : Nous pouvons essayer de hacker des sites (comme netflix) pour obtenir le film sans payer et cela nous entraine pour le BUT informatique.
+Les films sont un merveilleux moyen de se changer les idées ou de developper sa creativité/son imagination, quelque soit le type de film que vous regardez. Les 10 films que nous vous avons proposés doivent être regardés dès que possible(**_optionel en realiter certain sont pas ouf_**). La meilleure raison de regarder un film : Nous pouvons essayer de hacker des sites (comme _netflix_) pour obtenir le film sans payer et cela nous entraine pour le BUT informatique.
 
 
 - [x] Pourquoi regarder des films ?
